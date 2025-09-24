@@ -13,7 +13,7 @@ We use:
 
 ---
 
-## 🧾 What is a Data Warehouse?
+## 🧾 What is a Data Warehouse📊 ?
 
 A **data warehouse** is like a **big storage room** where data from different sources is collected and organized so it can be analyzed later.  
 
